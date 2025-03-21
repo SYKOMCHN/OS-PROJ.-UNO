@@ -1,0 +1,6 @@
+
+FIRST OF ALL, FOR VSCODE, YOU NEED MinGW64 that includes the GNU Compiler Collection (GCC) TO COMPILE C AND CPP PROGRAMS.
+THEN, YOU COOK LIKE YOU'VE NEVER COOKED BEFORE! MICHELIN *** WHITE RICE!
+
+TO CREATE A NEW FILE: 
+                        touch 'file_name'.cpp
