@@ -4,3 +4,10 @@ THEN, YOU COOK LIKE YOU'VE NEVER COOKED BEFORE! MICHELIN *** WHITE RICE!
 
 TO CREATE A NEW FILE: 
                         touch 'file_name'.cpp
+TRAVERSING FILES: 
+                        cd/path/to/you/file_name
+COMPILING CODE:
+                        g++ file_name.cpp -o output_filename 
+                        ./output_filename
+REMOVING FILES:
+                        rm file_name
