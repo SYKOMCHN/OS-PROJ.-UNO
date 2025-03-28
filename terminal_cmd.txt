@@ -1,13 +1,19 @@
-
 FIRST OF ALL, FOR VSCODE, YOU NEED MinGW64 that includes the GNU Compiler Collection (GCC) TO COMPILE C AND CPP PROGRAMS.
 THEN, YOU COOK LIKE YOU'VE NEVER COOKED BEFORE! MICHELIN *** WHITE RICE!
 
-TO CREATE A NEW FILE: 
-                        touch 'file_name'.cpp
-TRAVERSING FILES: 
-                        cd/path/to/you/file_name
-COMPILING CODE:
-                        g++ file_name.cpp -o output_filename 
-                        ./output_filename
-REMOVING FILES:
-                        rm file_name
+*note: the thing above somehow did not work :\
+
+(REFERENCE)--------------------------------------
+ |
+ |    TO CREATE A NEW FILE: 
+ |                          touch 'file_name'.cpp
+ |    TRAVERSING FILES: 
+ |                          cd/path/to/you/file_name
+ |                          cd file_name
+ |    COMPILING CODE:
+ |                         g++ file_name.cpp -o output_filename 
+ |                         ./output_filename
+ |    REMOVING FILES:
+ |                         rm file_name
+ |    CODE CPP IN LINUX:
+ |                         nano file_name.cpp
