@@ -17,3 +17,5 @@ THEN, YOU COOK LIKE YOU'VE NEVER COOKED BEFORE! MICHELIN *** WHITE RICE!
  |                         rm file_name
  |    CODE CPP IN LINUX:
  |                         nano file_name.cpp
+ |    EXIT NANO:
+ |                         ctrl + x
